@@ -14,7 +14,7 @@ The [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=rit
 
 [Helper/Utility classes](https://davidtheclark.com/on-utility-classes/) were used to set background colors to widgets instead of BEM modifiers in order to reuse them in other components.
 
-Live site: [https://alffonti.github.io/grid/index.html)
+Live site: https://alffonti.github.io/grid/index.html
 
 ## Built with
 
