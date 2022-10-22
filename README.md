@@ -4,7 +4,7 @@ This is a project of the [Coder Coder](https://www.youtube.com/watch?v=jfMHA8SqU
 
 ## About The Project
 
-![Grid screenshot](./screenshot.jpg)
+![Grid screenshot](https://user-images.githubusercontent.com/69361901/197349833-0906587f-3300-480b-ad87-3b01c0b572aa.png)
 
 The project aims to create a grid component using Sass with a main widget and three sidebar widgets. The widgets were filled with lorem ipsum placeholders. The project was structured following a similar architecture of the [7-1 pattern](https://sass-guidelin.es/#architecture). 
 
